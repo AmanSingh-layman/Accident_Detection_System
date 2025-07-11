@@ -1,0 +1,38 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / PyCharm settings
+.vscode/
+.idea/
+
+# Model weights & large files
+*.h5
+*.pth
+*.ckpt
+*.pb
+*.tflite
+
+# Data files
+*.zip
+*.tar.gz
+*.csv
+*.npy
+*.npz
+datasets/
+unified_data/
+
+# OS metadata
+.DS_Store
+Thumbs.db
